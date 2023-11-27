@@ -3,7 +3,7 @@
 Here's my GitHub stats...
 
 <div>
-  <a href="https://github.com/vivekweb2013">
+  <a href="https://github.com/ayushnvs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ayushnvs&show_icons=true&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayushnvs&layout=compact&langs_count=10"/>
 </div>
